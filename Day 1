@@ -57,7 +57,6 @@
          sum=0;
          curr=curr->next;
      } 
-  return l->next;
+  return l;
     }
     
- 2) 
